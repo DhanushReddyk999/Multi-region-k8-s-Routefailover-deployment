@@ -217,7 +217,7 @@ AWS Route53 (DNS)
 ## Author
 
 **Your Name**
-- GitHub: [@srinivas-choudarapu](https://github.com/srinivas-choudarapu)
+- GitHub: [@DhanushReddyk999](https://github.com/DhanushReddyk999/)
 - Docker Hub: [chsrinivas55](https://hub.docker.com/u/chsrinivas55)
 
 ---
